@@ -1,4 +1,4 @@
-# Materias para estudo de Ruby
+# Materiais para estudo de Ruby
 
 Olá! Boas vindas à nossa lista de materiais!
 
