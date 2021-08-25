@@ -16,8 +16,8 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 ## Complementares
 
 - [Banco de dados](#banco-de-dados)
-- [Front-end](#front-end)
 - [Docker](#docker)
+- [Front-end](#front-end)
 
 ## Ruby
 
@@ -39,10 +39,10 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 - [Apostila SQL e modelagem com banco de dados da Alura](https://www.alura.com.br/apostilas) _(gratuito)_
   - Para baixar a apostila é necessario fornecer um nome e um endereço de email. Após clicar em "Quero baixar a apostila" o formulario irá te redirecionar para a tela de download.
 
-## Front-end
-- [Desenvolvimento Web com HTML, CSS e Javascript](https://www.caelum.com.br/apostila-html-css-javascript)
-  - Caso você queira baixar a apostila, vá para a [página de apostilas no site da Caelum](https://www.caelum.com.br/apostilas) e preencha o formulário.
-
 ## Docker
 
 - [Livro Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) _(gratuito)_
+
+## Front-end
+- [Desenvolvimento Web com HTML, CSS e Javascript](https://www.caelum.com.br/apostila-html-css-javascript)
+  - Caso você queira baixar a apostila, vá para a [página de apostilas no site da Caelum](https://www.caelum.com.br/apostilas) e preencha o formulário.
