@@ -6,14 +6,18 @@ Se estiver procurando materiais para iniciantes ou para conhecer melhor a lingua
 
 Além dos links sobre Ruby, não deixe de conferir nossa lista de materiais complementares sobre assuntos do mundo de desenvolvimento de software!
 
-Divirta-se e caso queira contribuir com a nossa lista, leia o guia de contribuição e mande a sua sugestão!
+Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribuição](CONTRIBUTING.md) e mande a sua sugestão!
+
+## Ruby on Rails
 
 - [Ruby](#ruby)
+- [Testes](#testes)
 
 ## Complementares
 
 - [Banco de dados](#banco-de-dados)
 - [Front-end](#front-end)
+- [Docker](#docker)
 
 ## Ruby
 
@@ -23,6 +27,12 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o guia de contribui�
 - [Aprenda a programar](https://www.jmonteiro.com/aprendaaprogramar/) _(gratuito)_
 - [Tutorial de Ruby](http://guru-sp.github.io/tutorial_ruby/) _(gratuito)_
 - [Ruby Puro](https://onebitcode.com/course/ruby-puro/) _(gratuito)_
+  - Necessário criar conta no site
+
+## Testes
+
+- [Minicurso de Testes para Ruby on Rails com RSpec](https://onebitcode.com/course/minicurso-de-testes) _(gratuito)_
+  - Necessário criar conta no site
 
 ## Banco de Dados
 
@@ -32,3 +42,7 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o guia de contribui�
 ## Front-end
 - [Desenvolvimento Web com HTML, CSS e Javascript](https://www.caelum.com.br/apostila-html-css-javascript)
   - Caso você queira baixar a apostila, vá para a [página de apostilas no site da Caelum](https://www.caelum.com.br/apostilas) e preencha o formulário.
+
+## Docker
+
+- [Livro Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) _(gratuito)_
