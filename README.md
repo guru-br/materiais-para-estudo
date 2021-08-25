@@ -17,6 +17,7 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 
 - [Banco de dados](#banco-de-dados)
 - [Docker](#docker)
+- [Front-end](#front-end)
 
 ## Ruby
 
@@ -41,3 +42,7 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 ## Docker
 
 - [Livro Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) _(gratuito)_
+
+## Front-end
+- [Desenvolvimento Web com HTML, CSS e Javascript](https://www.caelum.com.br/apostila-html-css-javascript)
+  - Caso você queira baixar a apostila, vá para a [página de apostilas no site da Caelum](https://www.caelum.com.br/apostilas) e preencha o formulário.
