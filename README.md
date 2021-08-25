@@ -8,7 +8,10 @@ Além dos links sobre Ruby, não deixe de conferir nossa lista de materiais comp
 
 Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribuição](CONTRIBUTING.md) e mande a sua sugestão!
 
+## Ruby on Rails
+
 - [Ruby](#ruby)
+- [Testes](#testes)
 
 ## Complementares
 
@@ -22,6 +25,12 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 - [Aprenda a programar](https://www.jmonteiro.com/aprendaaprogramar/) _(gratuito)_
 - [Tutorial de Ruby](http://guru-sp.github.io/tutorial_ruby/) _(gratuito)_
 - [Ruby Puro](https://onebitcode.com/course/ruby-puro/) _(gratuito)_
+  - Necessário criar conta no site
+
+## Testes
+
+- [Minicurso de Testes para Ruby on Rails com RSpec](https://onebitcode.com/course/minicurso-de-testes) _(gratuito)_
+  - Necessário criar conta no site
 
 ## Banco de Dados
 
