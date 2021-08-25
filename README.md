@@ -16,6 +16,7 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 ## Complementares
 
 - [Banco de dados](#banco-de-dados)
+- [Docker](#docker)
 
 ## Ruby
 
@@ -37,3 +38,6 @@ Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribui
 - [Apostila SQL e modelagem com banco de dados da Alura](https://www.alura.com.br/apostilas) _(gratuito)_
   - Para baixar a apostila é necessario fornecer um nome e um endereço de email. Após clicar em "Quero baixar a apostila" o formulario irá te redirecionar para a tela de download.
 
+## Docker
+
+- [Livro Descomplicando o Docker](https://livro.descomplicandodocker.com.br/) _(gratuito)_
