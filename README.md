@@ -6,7 +6,7 @@ Se estiver procurando materiais para iniciantes ou para conhecer melhor a lingua
 
 Além dos links sobre Ruby, não deixe de conferir nossa lista de materiais complementares sobre assuntos do mundo de desenvolvimento de software!
 
-Divirta-se e caso queira contribuir com a nossa lista, leia o guia de contribuição e mande a sua sugestão!
+Divirta-se e caso queira contribuir com a nossa lista, leia o [guia de contribuição](CONTRIBUTING.md) e mande a sua sugestão!
 
 - [Ruby](#ruby)
 
